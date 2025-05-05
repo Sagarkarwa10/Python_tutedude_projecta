@@ -1,0 +1,4 @@
+﻿First_Name=input("write your First Name:")
+Last_Name=input("write your Last Name:")
+full_name=First_Name+Last_Name
+print(f'Hello {full_name}! Welcome to the python Program')
